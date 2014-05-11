@@ -1,7 +1,8 @@
 datasciencecoursera
 ===================
-## Test repo here
-### 3teriary heading
+### Test repo here
+### 3-teriary heading
+
 homework
 
 * week-1 data science course overview
