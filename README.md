@@ -7,4 +7,4 @@ homework
 
 * week-1 data science course overview
 * week-2 software/environment introduce
-* week-3
+* week-3 not start yet
